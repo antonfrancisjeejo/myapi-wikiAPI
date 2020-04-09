@@ -17,4 +17,11 @@
 3.Try all the features available in the RESTful API boilerplate
 
 
+## Screenshots
 
+
+![Image unavialable](https://github.com/jeejo13/myapi-wikiAPI/blob/master/Screenshot/API%20(1).png)
+
+![Image unavialable](https://github.com/jeejo13/myapi-wikiAPI/blob/master/Screenshot/API%20(2).png)
+
+![Image unavialable](https://github.com/jeejo13/myapi-wikiAPI/blob/master/Screenshot/API%20(3).png)

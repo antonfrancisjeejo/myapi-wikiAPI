@@ -8,7 +8,7 @@ app.use(bodyParser.urlencoded({extended:true}));
 
 app.set("view engine","ejs");
 
-mongoose.connect("mongodb://localhost:27017/wikiDB",{useNewUrlParser:true,useUnifiedTopology:true});
+mongoose.connect("mongodb+srv://jeejo13:jeejo123@cluster0-q3jj1.mongodb.net/wikiDB",{useNewUrlParser:true,useUnifiedTopology:true});
 
 const articleSchema = {
   title: String,
